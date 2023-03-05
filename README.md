@@ -1,2 +1,2 @@
 # Temperature Hot
-Live site: 
+Live site: https://devmahfuzzayn.github.io/temperature-hot/
